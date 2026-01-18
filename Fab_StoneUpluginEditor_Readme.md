@@ -51,13 +51,6 @@ Each section updates the descriptor immediately when values change.
 
 ---
 
-## Plugin Icon Requirements
-- Icon size must be **128 × 128 pixels**
-- Unsupported sizes trigger a validation warning or error
-- Icon-related issues are clearly reported in the validation section
-
----
-
 ## Fixing Validation Errors
 1. Open the **Validation Summary** section.
 2. Review listed errors or warnings.
@@ -72,27 +65,3 @@ Each section updates the descriptor immediately when values change.
 - Resolve warnings before packaging or distributing plugins
 - Keep plugin metadata complete and accurate
 - Validate icons before final submission
-
----
-
-## Limitations
-- Editor-only plugin
-- No runtime impact
-- Does not affect packaged builds
-- Intended only for `.uplugin` descriptor management
-
----
-
-## Uninstalling
-1. Close Unreal Engine.
-2. Remove the plugin folder from the project or engine `Plugins` directory.
-3. Restart Unreal Engine.
-
----
-
-## Versioning Notes
-Always update version-related fields before distributing or publishing plugins to avoid conflicts or rejection.
-
----
-
-## End of Documentation

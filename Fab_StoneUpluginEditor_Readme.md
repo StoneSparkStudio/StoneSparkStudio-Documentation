@@ -14,6 +14,7 @@ Copy plugin folder and past it in your project's Plugins folder.
 Enable plugin through plugins widow in unreal engine.
 
 ---
+<img width="534" height="231" alt="OpenEditor_window" src="https://github.com/user-attachments/assets/c826ea4c-03cf-4229-9a27-97c14697d3fa" />
 
 ## Opening the Editor
 1. Launch Unreal Engine.

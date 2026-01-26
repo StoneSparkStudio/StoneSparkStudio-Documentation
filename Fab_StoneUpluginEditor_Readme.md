@@ -6,9 +6,18 @@ It provides a structured UI, real-time validation, and clear feedback to ensure 
 
 ---
 
+## Setup the plugin
+Install it through Fab/EpicGames launcher.
+or
+Copy plugin folder and past it in your project's Plugins folder.
+
+Enable plugin through plugins widow in unreal engine.
+
+---
+
 ## Opening the Editor
 1. Launch Unreal Engine.
-2. Open the **Plugins** window or use the menu entry added by Stone UPlugin Editor.
+2. Open the windows menu and click on the menu entry added by Stone UPlugin Editor under section `Stone Ecosystem`.
 3. Select the plugin you want to edit.
 4. The plugin’s `.uplugin` descriptor opens in the custom editor UI.
 
@@ -65,3 +74,8 @@ Each section updates the descriptor immediately when values change.
 - Resolve warnings before packaging or distributing plugins
 - Keep plugin metadata complete and accurate
 - Validate icons before final submission
+
+---
+
+## Support and feedback
+Email : stonesparkstudio@gmail.com
